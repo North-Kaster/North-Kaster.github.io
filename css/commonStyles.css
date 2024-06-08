@@ -25,6 +25,7 @@
   background-color: var(--black-transparent);
 
 }
+
 .background-opaque {
   background-color: var(--background-opaque);
 }
@@ -68,7 +69,8 @@
 ------------------------------------------------------------------- 
 */
 
-body, html {
+body,
+html {
   overflow-x: hidden;
 }
 
@@ -206,7 +208,7 @@ a:hover {
   font-weight: 200;
   line-height: 1.1em;
   padding-bottom: 1.5rem;
-  word-wrap: break-word; 
+  word-wrap: break-word;
 }
 
 .page-title {
